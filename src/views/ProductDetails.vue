@@ -19,7 +19,7 @@ onBeforeMount(() => {
 </script>
 
 <template>
-    <section class="flex sm:flex-row flex-col justify-center items-center md:h-screen my-10">
+    <section class="flex sm:flex-row flex-col justify-center items-center md:h-screen my-10 mx-5">
     <div class="w-6/12 ">
     <img class="w-[300px] mx-auto" :src="product.image" alt="">
     </div>
